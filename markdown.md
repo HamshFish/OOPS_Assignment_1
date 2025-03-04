@@ -17,7 +17,7 @@
 * hTdir
 * ohFtru
 
-![Yippee](./Yippee.gif)
+![Yippee](./Image/Yippee.gif)
 ![Grimm](./Image/Divedash.gif)
 
 ```
@@ -34,4 +34,4 @@ public class Grimm
 
 <ol>
     <li> tFsri </li>
-</ol> 
+</ol>
