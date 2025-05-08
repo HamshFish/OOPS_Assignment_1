@@ -1,1 +1,1 @@
-[Part 2] (./Part2/Part2.md)
+[Part 2] (Part2/Part2.md)
