@@ -12,12 +12,14 @@
 <ol>
 <li> Create a README file - README's are files that give a general overview of what the repository is about and clarifies navigation about your work.
 <li> Secure your repository - Setting up security measures ensures that your repository is protected from unauthorised access, secrets like API keys and tokens and prevents vulnerable code is not exploited by mal-actors.
+<li> Use .gitignore - .gitignore removes all unecessary files that end up making the clone and download process longer as the computer has to download other files that are included from the repo origin like Unity. </li>
 </ol>
 
 ### Principles and techniques for creating and working with branches:
 <ol>
 <li> Create focused and compact branches - focusing on specified tasks can help streamline and track changes in the code and creates clarity of the task taken.
 <li> Use meaningful naming conventions - Meaningful names for branches can help others understand what the branches purpose is and allows teammates to be informed of actions taken.
+<li> Following a Git Workflow - Git workflows allows for all members of the development team to make changes at an efficient rate without conflicting changes between eachother and can be used to fix small bugs away from the main branch. </li>
 </ol>
 
 # Recommended Git workflow
