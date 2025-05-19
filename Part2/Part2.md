@@ -56,7 +56,7 @@ A revert inverts changes done to a commit, while a reset deletes all following c
 False. All code should be in working order BEFORE you commit them.
 
 ### Question 12: True or False: You should commit related changes. For example, fixing 2 unique bugs should produce seperate commits.
-False. All changes are to be commited at the same time, specify all major changes in the commit summary.
+True. Bloated commits can be confusing and broken changes may brick the files.
 
 ### Question 13: Describe what is DevOps, how is it useful to game developers?
 DevOps are tools that can be used by game developers to manage work item tracking, version control and build pipelines, and typically uses cloud storage and computing to improve communication and collaboration between the team.
